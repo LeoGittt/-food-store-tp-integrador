@@ -8,7 +8,7 @@ Repositorio: https://github.com/LeoGittt/-food-store-tp-integrador
 
 Documentación en PDF: Documentacion_Food_Store.pdf (está en la raíz del repositorio)
 
-Video: https://youtu.be/1AuGE6IMEKo
+Video: https://www.youtube.com/watch?v=1AuGE6IMEKo
 
 ## Requisitos
 
