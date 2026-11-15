@@ -6,6 +6,8 @@ Alumno: Leonel González
 
 Repositorio: https://github.com/LeoGittt/-food-store-tp-integrador
 
+Documentación en PDF: Documentacion_Food_Store.pdf (está en la raíz del repositorio)
+
 Video: COMPLETAR_URL_DEL_VIDEO
 
 ## Requisitos
